@@ -198,16 +198,12 @@ export function SmartSeachBasic() {
   return (
     <div>
       <span>
-        Below is a simple example of the React Smart Search component hooked up
-        to a client side data source. Smart search supports server-side, client
-        side or a hybrid. <br />
-        Allows multiple comparison methods and spports, and/or, brackets, lists
-        and ranges. <br />
-        You can search by field (side = buy), by comparion and value (${'>'} 5),
-        or by value (sell). <br />
-        If a comparison is not provided equals is assumed. Likewsie, conditions
-        are joined by and, unless or is supplied.
-        <br />
+        Below is a simple example of the React Smart Search component. It is hooked up to a client side data source. <br />
+        Smart Search supports server-side and client datasources, or it can work with a combination of the two. <br />
+        Smart Search is highly customisable, and can use any number of comparison methods. It also supports and/or, brackets, lists and ranges. <br />
+        Seraching is simple and intuitive. Users can search by field (side = buy), by comparion and value (${'>'} 5), or by just a value (sell). <br />
+        If a comparison operator is not provided then it is assumed to be the field's default (usually equals). Likewsie, conditions
+        are joined by an and, unless or is supplied.<br />
       </span>
       <div style={{ height: '300px', width: '800px', position: 'relative' }}>
         <ReactSmartSearch fields={fields} />
