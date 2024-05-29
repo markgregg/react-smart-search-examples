@@ -1,7 +1,7 @@
 {
   "name": "react-smart-search-examples",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mark Gregg <gregg.mark@gmail.com> (https://github.com/markgregg)",
   "license": "MIT",
   "files": [
@@ -42,6 +42,6 @@
     "ag-grid-react": "^31.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-smart-search": "^0.5.4"
+    "react-smart-search": "^0.5.5"
   }
 }

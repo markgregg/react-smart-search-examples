@@ -34,7 +34,7 @@ const formatDate = (date: Date): string =>
 
 export const extractDate = (text: string) => {
   const dt = new Date();
-  const value = parseInt(text.substring(0, text.length - 1));
+  const value = parseInt(text.substring(0, text.length - 1), 10);
   const postFix = text.substring(text.length - 1);
   if (postFix === 'y' || postFix === 'Y') {
     dt.setFullYear(dt.getFullYear() + value);
