@@ -33,7 +33,7 @@
         "Smart search basic"
       ],
       "locStart": 10,
-      "locEnd": 217,
+      "locEnd": 213,
       "filePath": "src/smart-search-basic.stories.tsx",
       "namedExport": "SmartSeachBasic",
       "meta": {}
