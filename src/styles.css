@@ -1,0 +1,14 @@
+.agGridFrame {
+  height: 800px;
+  width: 1200px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.agGrid {
+  height: 100%;
+  width: 100%;
+  font-size: small;
+}
