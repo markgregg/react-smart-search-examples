@@ -1,2 +1,1 @@
-# editContent
-todo
+# React smart search
