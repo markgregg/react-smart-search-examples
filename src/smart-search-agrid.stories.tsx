@@ -60,7 +60,7 @@ export function SmartSeachAgGrid() {
         Ag-Grid out of the box.
       </div>
       <div className="agGridFrame">
-        <ReactSmartSearchAgGrid<Bond>
+        <ReactSmartSearchAgGrid
           matchers={matchers}
           onChanged={(m, f) => matchersChanged(m, f)}
           maxMatcherWidth={250}

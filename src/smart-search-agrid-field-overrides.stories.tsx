@@ -19,7 +19,7 @@ import './styles.css';
 import 'ag-grid-community/styles/ag-grid.css';
 import 'ag-grid-community/styles/ag-theme-alpine.css';
 
-export function SmartSeachAgGridHints() {
+export function SmartSeachAgGridOverrides() {
   const filterRef = React.useRef<FilterFunction | null>(null);
   const [matchers, setMatchers] = React.useState<Matcher[]>([]);
   const [rowData] = React.useState<Bond[]>(bonds);
@@ -54,16 +54,37 @@ export function SmartSeachAgGridHints() {
 
   return (
     <div className="storyStyle">
-      <h1>Smart Search For Ag-Grid with Hints</h1>
+      <h1>Smart Search For Ag-Grid with Overrides</h1>
       <div className="text">
-        Hints can also be configured for Ag-grid. By default the hints options
-        will be taken from the values in the grid.
+        Although you don't have to supply fields for the Ag-Grid Smart Search,
+        you can to overrides the default behaviour. In this example active has
+        been changed to yes/no, and the title for the side field has been hidden
       </div>
       <div className="agGridFrame">
         <ReactSmartSearchAgGrid
           matchers={matchers}
           onChanged={(m, f) => matchersChanged(m, f)}
           maxMatcherWidth={250}
+          fields={[
+            {
+              name: 'active',
+              fieldMatches: [
+                {
+                  ignoreCase: true,
+                  source: [
+                    { text: 'Yes', value: true },
+                    { text: 'No', value: false },
+                  ],
+                  textGetter: (t: any) => t.text,
+                  valueGetter: (t: any) => t.value,
+                },
+              ],
+            },
+            {
+              name: 'side',
+              hideCategory: true,
+            },
+          ]}
           hints={[
             {
               column: 'currency',
@@ -78,11 +99,11 @@ export function SmartSeachAgGridHints() {
               column: 'active',
               options: [
                 {
-                  text: 'True',
+                  text: 'Yes',
                   value: true,
                 },
                 {
-                  text: 'False',
+                  text: 'No',
                   value: false,
                 },
               ],
