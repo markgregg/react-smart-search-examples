@@ -13,6 +13,10 @@ export const bonds: Bond[] = [
     issuer: 'BPCE',
     hairCut: 21.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'FR0127739573',
@@ -26,6 +30,10 @@ export const bonds: Bond[] = [
     issuer: 'BPCE',
     hairCut: 21.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'FR0013213683',
@@ -39,6 +47,10 @@ export const bonds: Bond[] = [
     issuer: 'SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF)',
     hairCut: 16.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'FR0127740506',
@@ -52,6 +64,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque fédérative du crédit mutuel',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS1848875172',
@@ -65,6 +81,10 @@ export const bonds: Bond[] = [
     issuer: 'Svenska Handelsbanken AB',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'IT0004026420',
@@ -78,6 +98,10 @@ export const bonds: Bond[] = [
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'IT0004049224',
@@ -91,6 +115,10 @@ export const bonds: Bond[] = [
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'IT0004059264',
@@ -104,6 +132,10 @@ export const bonds: Bond[] = [
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS1586702679',
@@ -117,6 +149,10 @@ export const bonds: Bond[] = [
     issuer: 'Swedish Covered Bond Corp.The',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS1582205040',
@@ -130,6 +166,10 @@ export const bonds: Bond[] = [
     issuer: 'Statkraft AS',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS1627193359',
@@ -143,6 +183,10 @@ export const bonds: Bond[] = [
     issuer: 'Compagnie de Saint-Gobain S.A.',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS1637093508',
@@ -156,6 +200,10 @@ export const bonds: Bond[] = [
     issuer: 'Compass Group Fin. Netherl. BV',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS2329761956',
@@ -169,6 +217,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS2337449214',
@@ -182,6 +234,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'XS2438636198',
@@ -195,6 +251,10 @@ export const bonds: Bond[] = [
     issuer: 'Nykredit Bank A/S',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A20DR1',
@@ -208,6 +268,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A20C21',
@@ -221,6 +285,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B065784',
@@ -234,6 +302,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B066428',
@@ -247,6 +319,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B126933',
@@ -260,6 +336,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B126941',
@@ -273,6 +353,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B014543',
@@ -286,6 +370,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A26PY8',
@@ -299,6 +387,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 9.5,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B014600',
@@ -312,6 +404,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A26U56',
@@ -325,6 +421,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B049754',
@@ -338,6 +438,10 @@ export const bonds: Bond[] = [
     issuer: 'UniCredit Bank Austria AG',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A26Z69',
@@ -351,6 +455,10 @@ export const bonds: Bond[] = [
     issuer: 'Erdöl-Lagergesellschaft m.b.H.',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A27620',
@@ -364,6 +472,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A27638',
@@ -377,6 +489,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2REG9',
@@ -390,6 +506,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2REH7',
@@ -403,6 +523,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT000B093547',
@@ -416,6 +540,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2RJ37',
@@ -429,6 +557,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenverband Salzburg eGen',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2RK00',
@@ -442,6 +574,10 @@ export const bonds: Bond[] = [
     issuer: 'Bausparkasse Wüstenrot AG',
     hairCut: 25.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2RR60',
@@ -455,6 +591,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2WUV4',
@@ -468,6 +608,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2RY95',
@@ -481,6 +625,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2CGC5',
@@ -494,6 +642,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Energy',
+    },
   },
   {
     isin: 'AT0000A2CFX3',
@@ -507,6 +659,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A2CN04',
@@ -520,6 +676,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT000B078571',
@@ -533,6 +693,10 @@ export const bonds: Bond[] = [
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT000B078597',
@@ -546,6 +710,10 @@ export const bonds: Bond[] = [
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A14PM9',
@@ -559,6 +727,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A10G94',
@@ -572,6 +744,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A10709',
@@ -585,6 +761,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT000B015227',
@@ -598,6 +778,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 23.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT000B093133',
@@ -611,6 +795,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'SK4000022083',
@@ -624,6 +812,10 @@ export const bonds: Bond[] = [
     issuer: 'Slovenská sporiteľňa a.s.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A1W5X8',
@@ -637,6 +829,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'AT0000A31LU5',
@@ -650,6 +846,10 @@ export const bonds: Bond[] = [
     issuer: 'Erste Group Bank AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2314675997',
@@ -663,6 +863,10 @@ export const bonds: Bond[] = [
     issuer: 'European Investment Bank',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'DK0004612371',
@@ -676,6 +880,10 @@ export const bonds: Bond[] = [
     issuer: 'Realkredit Danmark A/S',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2047500769',
@@ -689,6 +897,10 @@ export const bonds: Bond[] = [
     issuer: 'E.ON SE',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2047500926',
@@ -702,6 +914,10 @@ export const bonds: Bond[] = [
     issuer: 'E.ON SE',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'EU000A284469',
@@ -715,6 +931,10 @@ export const bonds: Bond[] = [
     issuer: 'European Union',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2550866342',
@@ -728,6 +948,10 @@ export const bonds: Bond[] = [
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2554340047',
@@ -741,6 +965,10 @@ export const bonds: Bond[] = [
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2554472626',
@@ -754,6 +982,10 @@ export const bonds: Bond[] = [
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2558247677',
@@ -767,6 +999,10 @@ export const bonds: Bond[] = [
     issuer: 'OP-Asuntoluottopankki Oyj',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2560024189',
@@ -780,6 +1016,10 @@ export const bonds: Bond[] = [
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2560032877',
@@ -793,6 +1033,10 @@ export const bonds: Bond[] = [
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2562899976',
@@ -806,6 +1050,10 @@ export const bonds: Bond[] = [
     issuer: 'Ferrovial S.A.',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2562951132',
@@ -819,6 +1067,10 @@ export const bonds: Bond[] = [
     issuer: 'Ferrovial S.A.',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2563073084',
@@ -832,6 +1084,10 @@ export const bonds: Bond[] = [
     issuer: 'Banco Santander S.A.',
     hairCut: 21.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'FR0010093336',
@@ -845,6 +1101,10 @@ export const bonds: Bond[] = [
     issuer: 'Caisse Francaise d.Financ.Loc.',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'DE000A289DC9',
@@ -858,6 +1118,10 @@ export const bonds: Bond[] = [
     issuer: 'BASF SE',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2237434803',
@@ -871,6 +1135,10 @@ export const bonds: Bond[] = [
     issuer: 'Unipol Gruppo S.p.A.',
     hairCut: 27.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2234567233',
@@ -884,6 +1152,10 @@ export const bonds: Bond[] = [
     issuer: 'Volkswagen Intl Finance N.V.',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS1222590488',
@@ -897,6 +1169,10 @@ export const bonds: Bond[] = [
     issuer: 'EDP Finance B.V.',
     hairCut: 20.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS1244085715',
@@ -910,6 +1186,10 @@ export const bonds: Bond[] = [
     issuer: 'Swedish Covered Bond Corp.The',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2055786763',
@@ -923,6 +1203,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordic Investment Bank',
     hairCut: 2.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2078735276',
@@ -936,6 +1220,10 @@ export const bonds: Bond[] = [
     issuer: 'Shell International Finance BV',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Materials',
+    },
   },
   {
     isin: 'XS2078735433',
@@ -949,6 +1237,10 @@ export const bonds: Bond[] = [
     issuer: 'Shell International Finance BV',
     hairCut: 18.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'XS1907155235',
@@ -962,6 +1254,10 @@ export const bonds: Bond[] = [
     issuer: 'Nederlandse Waterschapsbank N.V.',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'AT000B088257',
@@ -975,6 +1271,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'AT0000A1DCR2',
@@ -988,6 +1288,10 @@ export const bonds: Bond[] = [
     issuer: 'Erste Group Bank AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'DE000NLB89K5',
@@ -1001,6 +1305,10 @@ export const bonds: Bond[] = [
     issuer: 'Norddeutsche Landesbank -Girozentrale-',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'ES0413679459',
@@ -1014,6 +1322,10 @@ export const bonds: Bond[] = [
     issuer: 'Bankinter S.A.',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'DE000LB13BV7',
@@ -1027,6 +1339,10 @@ export const bonds: Bond[] = [
     issuer: 'Landesbank Baden-Württemberg',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127638791',
@@ -1040,6 +1356,10 @@ export const bonds: Bond[] = [
     issuer: 'Svenska Handelsbanken AB',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127743294',
@@ -1053,6 +1373,10 @@ export const bonds: Bond[] = [
     issuer: 'BRED - Banque populaire',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'DE000A2AAWA8',
@@ -1066,6 +1390,10 @@ export const bonds: Bond[] = [
     issuer: 'Brandenburg Land',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127743245',
@@ -1079,6 +1407,10 @@ export const bonds: Bond[] = [
     issuer: 'JYSKE BANK A/S',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127539742',
@@ -1092,6 +1424,10 @@ export const bonds: Bond[] = [
     issuer: 'KLEPIERRE',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'ES0413679475',
@@ -1105,6 +1441,10 @@ export const bonds: Bond[] = [
     issuer: 'Bankinter S.A.',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127743351',
@@ -1118,6 +1458,10 @@ export const bonds: Bond[] = [
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'XS2157194643',
@@ -1131,6 +1475,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordea Mortgage Bank PLC',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0011074152',
@@ -1144,6 +1492,10 @@ export const bonds: Bond[] = [
     issuer: 'VILLE DE PARIS',
     hairCut: 2.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0013235199',
@@ -1157,6 +1509,10 @@ export const bonds: Bond[] = [
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0011079052',
@@ -1170,6 +1526,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 2.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0011458736',
@@ -1183,6 +1543,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 1.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127742916',
@@ -1196,6 +1560,10 @@ export const bonds: Bond[] = [
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127742932',
@@ -1209,6 +1577,10 @@ export const bonds: Bond[] = [
     issuer: 'DECATHLON SA',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127615229',
@@ -1222,6 +1594,10 @@ export const bonds: Bond[] = [
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'DE000DK03RQ2',
@@ -1235,6 +1611,10 @@ export const bonds: Bond[] = [
     issuer: 'DekaBank Deutsche Girozentrale',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127590075',
@@ -1248,6 +1628,10 @@ export const bonds: Bond[] = [
     issuer: 'Agence Centrale des Organismes de Sécurité Sociale (ACOSS)',
     hairCut: 16.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127686055',
@@ -1261,6 +1645,10 @@ export const bonds: Bond[] = [
     issuer: 'Natixis',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127533570',
@@ -1274,6 +1662,10 @@ export const bonds: Bond[] = [
     issuer: 'BNP Paribas',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'ES0413040090',
@@ -1287,6 +1679,10 @@ export const bonds: Bond[] = [
     issuer: 'Banca March S.A.',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127266163',
@@ -1300,6 +1696,10 @@ export const bonds: Bond[] = [
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR001400BCS5',
@@ -1313,6 +1713,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127442483',
@@ -1326,6 +1730,10 @@ export const bonds: Bond[] = [
     issuer: 'PSA BANQUE FRANCE',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR001400CVK0',
@@ -1339,6 +1747,10 @@ export const bonds: Bond[] = [
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0014000T17',
@@ -1352,6 +1764,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION HAUTS-DE-FRANCE',
     hairCut: 3.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0013053907',
@@ -1365,6 +1781,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0012767317',
@@ -1378,6 +1798,10 @@ export const bonds: Bond[] = [
     issuer: 'DEPARTEMENT DE LA SEINE ET MARNE',
     hairCut: 1.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0122534227',
@@ -1391,6 +1815,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0013413184',
@@ -1404,6 +1832,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127583773',
@@ -1417,6 +1849,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque fédérative du crédit mutuel',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0012695716',
@@ -1430,6 +1866,10 @@ export const bonds: Bond[] = [
     issuer: 'BPCE SFH',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR00140099G0',
@@ -1443,6 +1883,10 @@ export const bonds: Bond[] = [
     issuer: 'HSBC SFH (FRANCE)',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0011225325',
@@ -1456,6 +1900,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 1.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0013537263',
@@ -1469,6 +1917,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127495010',
@@ -1482,6 +1934,10 @@ export const bonds: Bond[] = [
     issuer: 'Caisse régionale de crédit agricole mutuel Sud Rhône-Alpes',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127743187',
@@ -1495,6 +1951,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit mutuel Arkéa',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127409730',
@@ -1508,6 +1968,10 @@ export const bonds: Bond[] = [
     issuer: 'Bpifrance',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'IT0005325334',
@@ -1521,6 +1985,10 @@ export const bonds: Bond[] = [
     issuer: 'Intesa Sanpaolo S.p.A.',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127768689',
@@ -1534,6 +2002,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127768697',
@@ -1547,6 +2019,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit mutuel Arkéa',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127768648',
@@ -1560,6 +2036,10 @@ export const bonds: Bond[] = [
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'IT0005320673',
@@ -1573,6 +2053,10 @@ export const bonds: Bond[] = [
     issuer: 'Intesa Sanpaolo S.p.A.',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR00140052W6',
@@ -1586,6 +2070,10 @@ export const bonds: Bond[] = [
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR001400AON3',
@@ -1599,6 +2087,10 @@ export const bonds: Bond[] = [
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0127717611',
@@ -1612,6 +2104,10 @@ export const bonds: Bond[] = [
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'FR0013529559',
@@ -1625,6 +2121,10 @@ export const bonds: Bond[] = [
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'IT0004534365',
@@ -1638,6 +2138,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Industrials',
+    },
   },
   {
     isin: 'IT0004534373',
@@ -1651,6 +2155,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534381',
@@ -1664,6 +2172,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534399',
@@ -1677,6 +2189,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534407',
@@ -1690,6 +2206,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534415',
@@ -1703,6 +2223,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534423',
@@ -1716,6 +2240,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534431',
@@ -1729,6 +2257,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534449',
@@ -1742,6 +2274,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534456',
@@ -1755,6 +2291,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534514',
@@ -1768,6 +2308,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534464',
@@ -1781,6 +2325,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534472',
@@ -1794,6 +2342,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534480',
@@ -1807,6 +2359,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534498',
@@ -1820,6 +2376,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004534506',
@@ -1833,6 +2393,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005422891',
@@ -1846,6 +2410,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005424251',
@@ -1859,6 +2427,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005425233',
@@ -1872,6 +2444,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005428617',
@@ -1885,6 +2461,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005433690',
@@ -1898,6 +2478,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005436693',
@@ -1911,6 +2495,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005436701',
@@ -1924,6 +2512,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005437147',
@@ -1937,6 +2529,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005438004',
@@ -1950,6 +2546,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0005441883',
@@ -1963,6 +2563,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2RZ03',
@@ -1976,6 +2580,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2RZH2',
@@ -1989,6 +2597,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2XGD9',
@@ -2002,6 +2614,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2XG57',
@@ -2015,6 +2631,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B065172',
@@ -2028,6 +2648,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2SL32',
@@ -2041,6 +2665,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 2.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B015185',
@@ -2054,6 +2682,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B066998',
@@ -2067,6 +2699,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A2XMV9',
@@ -2080,6 +2716,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B049465',
@@ -2093,6 +2733,10 @@ export const bonds: Bond[] = [
     issuer: 'UniCredit Bank Austria AG',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B127220',
@@ -2106,6 +2750,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A10NQ3',
@@ -2119,6 +2767,10 @@ export const bonds: Bond[] = [
     issuer: 'Land Niederösterreich',
     hairCut: 3.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A10QD4',
@@ -2132,6 +2784,10 @@ export const bonds: Bond[] = [
     issuer: 'Land Niederösterreich',
     hairCut: 3.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A1ERJ5',
@@ -2145,6 +2801,10 @@ export const bonds: Bond[] = [
     issuer: 'Ceske drahy a.s.',
     hairCut: 17.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT0000A1EL96',
@@ -2158,6 +2818,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2406890066',
@@ -2171,6 +2835,10 @@ export const bonds: Bond[] = [
     issuer: 'Kon. KPN N.V.',
     hairCut: 17.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2497182621',
@@ -2184,6 +2852,10 @@ export const bonds: Bond[] = [
     issuer: 'Santander Consumer Finance SA',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2497421714',
@@ -2197,6 +2869,10 @@ export const bonds: Bond[] = [
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2497426606',
@@ -2210,6 +2886,10 @@ export const bonds: Bond[] = [
     issuer: 'Santander Consumer Finance SA',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'DK0004625274',
@@ -2223,6 +2903,10 @@ export const bonds: Bond[] = [
     issuer: 'Realkredit Danmark A/S',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'IT0004657711',
@@ -2236,6 +2920,10 @@ export const bonds: Bond[] = [
     issuer: 'Asti Finance S.r.l.',
     hairCut: 3.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS1969595567',
@@ -2249,6 +2937,10 @@ export const bonds: Bond[] = [
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2415531677',
@@ -2262,6 +2954,10 @@ export const bonds: Bond[] = [
     issuer: 'Central Bk of Sav.Bks Fin.PLC',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2490485005',
@@ -2275,6 +2971,10 @@ export const bonds: Bond[] = [
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2511906310',
@@ -2288,6 +2988,10 @@ export const bonds: Bond[] = [
     issuer: 'SELP Finance S.a.r.l.',
     hairCut: 25.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2551280436',
@@ -2301,6 +3005,10 @@ export const bonds: Bond[] = [
     issuer: 'Svenska Handelsbanken AB [publ]',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127738815',
@@ -2314,6 +3022,10 @@ export const bonds: Bond[] = [
     issuer: 'PSA BANQUE FRANCE',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127738930',
@@ -2327,6 +3039,10 @@ export const bonds: Bond[] = [
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127738948',
@@ -2340,6 +3056,10 @@ export const bonds: Bond[] = [
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2250026734',
@@ -2353,6 +3073,10 @@ export const bonds: Bond[] = [
     issuer: 'Instituto de Credito Oficial',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'XS2302933929',
@@ -2366,6 +3090,10 @@ export const bonds: Bond[] = [
     issuer: 'International Bank for Reconstruction and Development',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0014002LG4',
@@ -2379,6 +3107,10 @@ export const bonds: Bond[] = [
     issuer: 'Arkéa Home Loans SFH S.A.',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'BE6321665786',
@@ -2392,6 +3124,10 @@ export const bonds: Bond[] = [
     issuer: 'DEUTSCHSPRACHIGE GEMEINSCHAFT BELGIENS',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR001400D7M0',
@@ -2405,6 +3141,10 @@ export const bonds: Bond[] = [
     issuer: 'ALD',
     hairCut: 20.3,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127738716',
@@ -2418,6 +3158,10 @@ export const bonds: Bond[] = [
     issuer: 'ArcelorMittal S.A.',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127739631',
@@ -2431,6 +3175,10 @@ export const bonds: Bond[] = [
     issuer: 'Axa banque',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127739649',
@@ -2444,6 +3192,10 @@ export const bonds: Bond[] = [
     issuer: 'Axa banque',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127739656',
@@ -2457,6 +3209,10 @@ export const bonds: Bond[] = [
     issuer: 'Axa banque',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'FR0127694372',
@@ -2470,6 +3226,10 @@ export const bonds: Bond[] = [
     issuer: 'ENGIE',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B088281',
@@ -2483,6 +3243,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B077508',
@@ -2496,6 +3260,10 @@ export const bonds: Bond[] = [
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Consumer',
+    },
   },
   {
     isin: 'AT000B077516',
@@ -2509,6 +3277,10 @@ export const bonds: Bond[] = [
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B014436',
@@ -2522,6 +3294,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B112552',
@@ -2535,6 +3311,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B088489',
@@ -2548,6 +3328,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2CWE8',
@@ -2561,6 +3345,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2099128055',
@@ -2574,6 +3362,10 @@ export const bonds: Bond[] = [
     issuer: 'CA Immobilien Anlagen AG',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2CVP6',
@@ -2587,6 +3379,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 14.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2CW86',
@@ -2600,6 +3396,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2CWF5',
@@ -2613,6 +3413,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B127014',
@@ -2626,6 +3430,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 13.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2D7C0',
@@ -2639,6 +3447,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2D7D8',
@@ -2652,6 +3464,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2D7N7',
@@ -2665,6 +3481,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 5.4,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2D7Q0',
@@ -2678,6 +3498,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A2E083',
@@ -2691,6 +3515,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 1.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B126743',
@@ -2704,6 +3532,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A1ZU25',
@@ -2717,6 +3549,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenverband Salzburg eGen',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B014238',
@@ -2730,6 +3566,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B126586',
@@ -2743,6 +3583,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'DE000CB0HR35',
@@ -2756,6 +3600,10 @@ export const bonds: Bond[] = [
     issuer: 'Commerzbank AG',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0013519071',
@@ -2769,6 +3617,10 @@ export const bonds: Bond[] = [
     issuer: 'CAP GEMINI',
     hairCut: 17.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127739532',
@@ -2782,6 +3634,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS1756367816',
@@ -2795,6 +3651,10 @@ export const bonds: Bond[] = [
     issuer: 'KommuneKredit',
     hairCut: 9.0,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127739623',
@@ -2808,6 +3668,10 @@ export const bonds: Bond[] = [
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS1827629384',
@@ -2821,6 +3685,10 @@ export const bonds: Bond[] = [
     issuer: 'Aktia Bank PLC',
     hairCut: 0.9,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'EU000A3KRJR4',
@@ -2834,6 +3702,10 @@ export const bonds: Bond[] = [
     issuer: 'European Union',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2055627538',
@@ -2847,6 +3719,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank Intl AG',
     hairCut: 11.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2433211310',
@@ -2860,6 +3736,10 @@ export const bonds: Bond[] = [
     issuer: 'Snam S.p.A.',
     hairCut: 16.7,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2433226854',
@@ -2873,6 +3753,10 @@ export const bonds: Bond[] = [
     issuer: 'Snam S.p.A.',
     hairCut: 17.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'EU000A283859',
@@ -2886,6 +3770,10 @@ export const bonds: Bond[] = [
     issuer: 'European Union',
     hairCut: 4.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'EU000A283867',
@@ -2899,6 +3787,10 @@ export const bonds: Bond[] = [
     issuer: 'European Union',
     hairCut: 7.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2320746394',
@@ -2912,6 +3804,10 @@ export const bonds: Bond[] = [
     issuer: 'Verbund AG',
     hairCut: 8.1,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2555717292',
@@ -2925,6 +3821,10 @@ export const bonds: Bond[] = [
     issuer: 'Natwest Markets N.V.',
     hairCut: 23.6,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2089322098',
@@ -2938,6 +3838,10 @@ export const bonds: Bond[] = [
     issuer: 'RAI - RADIOTELEVISIONE ITALIANA SPA',
     hairCut: 10.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS1947578321',
@@ -2951,6 +3855,10 @@ export const bonds: Bond[] = [
     issuer: 'Nederlandse Waterschapsbank N.V.',
     hairCut: 3.2,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'XS2139595578',
@@ -2964,6 +3872,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordic Investment Bank',
     hairCut: 16.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT000B014097',
@@ -2977,6 +3889,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 6.8,
     active: true,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'AT0000A22P57',
@@ -2990,6 +3906,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127642603',
@@ -3003,6 +3923,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0013372182',
@@ -3016,6 +3940,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127687533',
@@ -3029,6 +3957,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127270256',
@@ -3042,6 +3974,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127687541',
@@ -3055,6 +3991,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit agricole corporate and investment bank',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127642330',
@@ -3068,6 +4008,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque populaire Rives de Paris',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'DE000DK0T0D0',
@@ -3081,6 +4025,10 @@ export const bonds: Bond[] = [
     issuer: 'DekaBank Deutsche Girozentrale',
     hairCut: 13.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0011858323',
@@ -3094,6 +4042,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 2.3,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'DE000A2AAQ93',
@@ -3107,6 +4059,10 @@ export const bonds: Bond[] = [
     issuer: 'Sachsen-Anhalt Land',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127687558',
@@ -3120,6 +4076,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0014003MZ0',
@@ -3133,6 +4093,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 4.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0013215191',
@@ -3146,6 +4110,10 @@ export const bonds: Bond[] = [
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127687483',
@@ -3159,6 +4127,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127687491',
@@ -3172,6 +4144,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0013335916',
@@ -3185,6 +4161,10 @@ export const bonds: Bond[] = [
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 4.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127529487',
@@ -3198,6 +4178,10 @@ export const bonds: Bond[] = [
     issuer: 'Diac',
     hairCut: 11.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127495028',
@@ -3212,6 +4196,10 @@ export const bonds: Bond[] = [
       'Caisse régionale de crédit agricole mutuel Charente-Périgord (Crédit agricole  Charente-Périgord)',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127614727',
@@ -3225,6 +4213,10 @@ export const bonds: Bond[] = [
     issuer: 'DANONE',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127644054',
@@ -3238,6 +4230,10 @@ export const bonds: Bond[] = [
     issuer: 'ING Bank N.V.',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127495044',
@@ -3251,6 +4247,10 @@ export const bonds: Bond[] = [
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127614701',
@@ -3264,6 +4264,10 @@ export const bonds: Bond[] = [
     issuer: 'BPCE',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127614735',
@@ -3277,6 +4281,10 @@ export const bonds: Bond[] = [
     issuer: 'DANONE',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0011475193',
@@ -3290,6 +4298,10 @@ export const bonds: Bond[] = [
     issuer: 'VILLE DE PARIS',
     hairCut: 2.3,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Health',
+    },
   },
   {
     isin: 'FR0127614453',
@@ -3303,6 +4315,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127614768',
@@ -3316,6 +4332,10 @@ export const bonds: Bond[] = [
     issuer: 'Bpifrance',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127614545',
@@ -3329,6 +4349,10 @@ export const bonds: Bond[] = [
     issuer: 'BRED - Banque populaire',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS1566190945',
@@ -3342,6 +4366,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Latvia',
     hairCut: 4.5,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127290551',
@@ -3355,6 +4383,10 @@ export const bonds: Bond[] = [
     issuer: 'Allianz banque',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127495093',
@@ -3368,6 +4400,10 @@ export const bonds: Bond[] = [
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127290577',
@@ -3381,6 +4417,10 @@ export const bonds: Bond[] = [
     issuer: 'AXA',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS1953056253',
@@ -3394,6 +4434,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Latvia',
     hairCut: 4.5,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2001737324',
@@ -3407,6 +4451,10 @@ export const bonds: Bond[] = [
     issuer: 'Telenor ASA',
     hairCut: 2.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2001737910',
@@ -3420,6 +4468,10 @@ export const bonds: Bond[] = [
     issuer: 'Telenor ASA',
     hairCut: 4.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2001738991',
@@ -3433,6 +4485,10 @@ export const bonds: Bond[] = [
     issuer: 'Telenor ASA',
     hairCut: 8.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'PTEIECOM0008',
@@ -3447,6 +4503,10 @@ export const bonds: Bond[] = [
       'EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA S.A.',
     hairCut: 2.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'PTEIEAOE0000',
@@ -3461,6 +4521,10 @@ export const bonds: Bond[] = [
       'EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA S.A.',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127495085',
@@ -3474,6 +4538,10 @@ export const bonds: Bond[] = [
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'DE000A30VST0',
@@ -3487,6 +4555,10 @@ export const bonds: Bond[] = [
     issuer: 'Sparkasse Pforzheim Calw',
     hairCut: 1.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0005439275',
@@ -3500,6 +4572,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0005449969',
@@ -3513,6 +4589,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0005452989',
@@ -3526,6 +4606,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127718049',
@@ -3539,6 +4623,10 @@ export const bonds: Bond[] = [
     issuer: 'Bpifrance',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127718155',
@@ -3552,6 +4640,10 @@ export const bonds: Bond[] = [
     issuer: 'Axa banque',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127718163',
@@ -3565,6 +4657,10 @@ export const bonds: Bond[] = [
     issuer: 'Axa banque',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127717454',
@@ -3578,6 +4674,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127717462',
@@ -3591,6 +4691,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque Palatine',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127718114',
@@ -3604,6 +4708,10 @@ export const bonds: Bond[] = [
     issuer: 'GECINA',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'DE000LB2CRP7',
@@ -3617,6 +4725,10 @@ export const bonds: Bond[] = [
     issuer: 'Landesbank Baden-Württemberg',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'DE000SLB8262',
@@ -3630,6 +4742,10 @@ export const bonds: Bond[] = [
     issuer: 'Landesbank Saar',
     hairCut: 13.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127695130',
@@ -3643,6 +4759,10 @@ export const bonds: Bond[] = [
     issuer: 'Oesterreichische Kontrollbank Aktiengesellschaft',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127768721',
@@ -3656,6 +4776,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127695106',
@@ -3669,6 +4793,10 @@ export const bonds: Bond[] = [
     issuer: 'ENGIE',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127741520',
@@ -3682,6 +4810,10 @@ export const bonds: Bond[] = [
     issuer: 'Natixis',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127747337',
@@ -3695,6 +4827,10 @@ export const bonds: Bond[] = [
     issuer: 'ENGIE',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'DE000A12UH52',
@@ -3708,6 +4844,10 @@ export const bonds: Bond[] = [
     issuer: 'Kreissparkasse Ludwigsburg',
     hairCut: 1.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127747733',
@@ -3721,6 +4861,10 @@ export const bonds: Bond[] = [
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127747758',
@@ -3734,6 +4878,10 @@ export const bonds: Bond[] = [
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127251074',
@@ -3747,6 +4895,10 @@ export const bonds: Bond[] = [
     issuer: 'Louis Dreyfus Commodities B.V.',
     hairCut: 22.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127717595',
@@ -3760,6 +4912,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque populaire Rives de Paris',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127693879',
@@ -3773,6 +4929,10 @@ export const bonds: Bond[] = [
     issuer: 'KLEPIERRE',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0013510054',
@@ -3786,6 +4946,10 @@ export const bonds: Bond[] = [
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0013478559',
@@ -3799,6 +4963,10 @@ export const bonds: Bond[] = [
     issuer: 'CENTRE HOSPITALIER UNIVERSITAIRE DE RENNES',
     hairCut: 2.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127541664',
@@ -3813,6 +4981,10 @@ export const bonds: Bond[] = [
       "Union Nationale Interprofessionnelle pour l'Emploi dans l'Industrie et le Commerce (UNEDIC)",
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127717439',
@@ -3826,6 +4998,10 @@ export const bonds: Bond[] = [
     issuer: 'Crédit industriel et commercial - CIC',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127733782',
@@ -3839,6 +5015,10 @@ export const bonds: Bond[] = [
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534522',
@@ -3852,6 +5032,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534530',
@@ -3865,6 +5049,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534548',
@@ -3878,6 +5066,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534555',
@@ -3891,6 +5083,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534571',
@@ -3904,6 +5100,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534589',
@@ -3917,6 +5117,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004534605',
@@ -3930,6 +5134,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004545890',
@@ -3943,6 +5151,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004548282',
@@ -3956,6 +5168,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004548290',
@@ -3969,6 +5185,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'IT0004548308',
@@ -3982,6 +5202,10 @@ export const bonds: Bond[] = [
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127694406',
@@ -3995,6 +5219,10 @@ export const bonds: Bond[] = [
     issuer: 'ENGIE',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127694349',
@@ -4008,6 +5236,10 @@ export const bonds: Bond[] = [
     issuer: 'VEOLIA ENVIRONNEMENT',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0013053329',
@@ -4021,6 +5253,10 @@ export const bonds: Bond[] = [
     issuer: 'SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF)',
     hairCut: 14.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'FR0127739029',
@@ -4034,6 +5270,10 @@ export const bonds: Bond[] = [
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2421195848',
@@ -4047,6 +5287,10 @@ export const bonds: Bond[] = [
     issuer: 'Aroundtown SA',
     hairCut: 25.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2430047212',
@@ -4060,6 +5304,10 @@ export const bonds: Bond[] = [
     issuer: 'Banco Santander S.A.',
     hairCut: 18.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2430287362',
@@ -4073,6 +5321,10 @@ export const bonds: Bond[] = [
     issuer: 'Prosus N.V.',
     hairCut: 27.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2430287529',
@@ -4086,6 +5338,10 @@ export const bonds: Bond[] = [
     issuer: 'Prosus N.V.',
     hairCut: 25.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2398750922',
@@ -4099,6 +5355,10 @@ export const bonds: Bond[] = [
     issuer: 'International Bank for Reconstruction and Development',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2343528571',
@@ -4112,6 +5372,10 @@ export const bonds: Bond[] = [
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2344772426',
@@ -4125,6 +5389,10 @@ export const bonds: Bond[] = [
     issuer: 'HAMMERSON IRELAND FINANCE DAC',
     hairCut: 25.2,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'XS2499654643',
@@ -4138,6 +5406,10 @@ export const bonds: Bond[] = [
     issuer: 'Coöperatieve Rabobank U.A.',
     hairCut: 21.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'AT000B066055',
@@ -4151,6 +5423,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 9.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'AT000B088455',
@@ -4164,6 +5440,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Financials',
+    },
   },
   {
     isin: 'AT0000A20EE7',
@@ -4177,6 +5457,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 8.1,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'XS1966819226',
@@ -4190,6 +5474,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 11.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'XS1966037860',
@@ -4203,6 +5491,10 @@ export const bonds: Bond[] = [
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 14.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT000B126958',
@@ -4216,6 +5508,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 11.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT000B014642',
@@ -4229,6 +5525,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT000B126966',
@@ -4242,6 +5542,10 @@ export const bonds: Bond[] = [
     issuer: 'Oberbank AG',
     hairCut: 18.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT0000A282J7',
@@ -4255,6 +5559,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 0.9,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT0000A286C3',
@@ -4268,6 +5576,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 9.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT0000A286S9',
@@ -4281,6 +5593,10 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 18.0,
     active: false,
+    categories: {
+      type: 'corporate',
+      sector: 'Technology',
+    },
   },
   {
     isin: 'AT000B093190',
@@ -4294,5 +5610,9 @@ export const bonds: Bond[] = [
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
     active: false,
+    categories: {
+      type: 'Corporate',
+      sector: 'Technology',
+    },
   },
 ];

@@ -117,4 +117,10 @@ export const columns: ColDef<Bond>[] = [
     sortable: true,
     resizable: true,
   },
+  {
+    field: 'categories.sector',
+    filter: 'agSetColumnFilter',
+    sortable: true,
+    resizable: true,
+  },
 ];

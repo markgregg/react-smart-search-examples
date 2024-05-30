@@ -66,13 +66,16 @@ export function SmartSeachAgGridHints() {
           maxMatcherWidth={250}
           hints={[
             {
-              field: 'currency',
+              column: 'currency',
             },
             {
-              field: 'side',
+              column: 'side',
             },
             {
-              field: 'active',
+              column: 'categories.sector',
+            },
+            {
+              column: 'active',
               options: [
                 {
                   text: 'True',
@@ -85,7 +88,7 @@ export function SmartSeachAgGridHints() {
               ]
             },
             {
-              field: 'maturityDate',
+              column: 'maturityDate',
               options: [
                 {
                   displayText: '1Y to 5Y',

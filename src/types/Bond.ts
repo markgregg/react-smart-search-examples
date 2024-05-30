@@ -10,4 +10,8 @@ export default interface Bond {
   issuer: string;
   hairCut: number;
   active: boolean;
+  categories: {
+    type: string;
+    sector: string;
+  };
 }
