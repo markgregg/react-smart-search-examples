@@ -32,8 +32,8 @@
       "levels": [
         "Smart search basic"
       ],
-      "locStart": 10,
-      "locEnd": 213,
+      "locStart": 11,
+      "locEnd": 224,
       "filePath": "src/smart-search-basic.stories.tsx",
       "namedExport": "SmartSeachBasic",
       "meta": {}
@@ -43,8 +43,8 @@
       "levels": [
         "Smart search hints"
       ],
-      "locStart": 10,
-      "locEnd": 299,
+      "locStart": 11,
+      "locEnd": 303,
       "filePath": "src/smart-search-hints.stories.tsx",
       "namedExport": "SmartSeachWithHints",
       "meta": {}
