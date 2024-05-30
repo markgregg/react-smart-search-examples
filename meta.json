@@ -5,6 +5,17 @@
     "version": 1
   },
   "stories": {
+    "smart-search-agrid-field-overrides--smart-seach-ag-grid-overrides": {
+      "name": "Smart seach ag grid overrides",
+      "levels": [
+        "Smart search agrid field overrides"
+      ],
+      "locStart": 22,
+      "locEnd": 192,
+      "filePath": "src/smart-search-agrid-field-overrides.stories.tsx",
+      "namedExport": "SmartSeachAgGridOverrides",
+      "meta": {}
+    },
     "smart-search-agrid-hints--smart-seach-ag-grid-hints": {
       "name": "Smart seach ag grid hints",
       "levels": [
