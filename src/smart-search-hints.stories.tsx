@@ -6,6 +6,7 @@ import ReactSmartSearch, {
   stringComparisons,
 } from 'react-smart-search';
 import { extractDate, findItem, findItems, getSize, isSize } from './functions';
+import './styles.css';
 
 export function SmartSeachWithHints() {
   const fields = React.useMemo<Field[]>(
@@ -102,6 +103,7 @@ export function SmartSeachWithHints() {
         title: 'Side',
         comparisons: stringComparisons,
         precedence: 9,
+        hideCategory: true,
         fieldMatches: [
           {
             ignoreCase: true,
@@ -196,12 +198,14 @@ export function SmartSeachWithHints() {
   );
 
   return (
-    <div>
-      <span>
-        Quickpick hints can be provided for common selection options.
-        <br />
-      </span>
-      <div style={{ height: '300px', width: '800px', position: 'relative' }}>
+    <div className="storyStyle">
+      <h1>Smart Search With Hints</h1>
+      <div className="text">
+        The below example demonstrates a Smart Search with a hint dropdown.
+        Hints can static or dynamic, or set to only show when a field is
+        selected.
+      </div>
+      <div className="smartSearch">
         <ReactSmartSearch
           fields={fields}
           hints={[

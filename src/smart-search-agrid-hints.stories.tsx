@@ -53,12 +53,12 @@ export function SmartSeachAgGridHints() {
   );
 
   return (
-    <div>
-      <span>
-        Hints can also be configured for Ag-grid. By default they will use the
-        values available in the grid.
-        <br />
-      </span>
+    <div className="storyStyle">
+      <h1>Smart Search For Ag-Grid with Hints</h1>
+      <div className="text">
+        Hints can also be configured for Ag-grid. By default the hints options
+        will be taken from the values in the grid.
+      </div>
       <div className="agGridFrame">
         <ReactSmartSearchAgGrid<Bond>
           matchers={matchers}

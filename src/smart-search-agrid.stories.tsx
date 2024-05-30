@@ -53,12 +53,12 @@ export function SmartSeachAgGrid() {
   );
 
   return (
-    <div>
-      <span>
+    <div className="storyStyle">
+      <h1>Smart Search For Ag-Grid</h1>
+      <div className="text">
         React Smart Search for Ag-Grid will provide advanced filtering for
-        Ag-Grid out of the box
-        <br />
-      </span>
+        Ag-Grid out of the box.
+      </div>
       <div className="agGridFrame">
         <ReactSmartSearchAgGrid<Bond>
           matchers={matchers}
