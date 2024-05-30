@@ -70,6 +70,11 @@ export const getSize = (text: string): number => {
 
 export const columns: ColDef<Bond>[] = [
   {
+    field: 'active',
+    sortable: true,
+    resizable: true,
+  },
+  {
     field: 'isin',
     filter: 'agSetColumnFilter',
     sortable: true,
@@ -89,31 +94,26 @@ export const columns: ColDef<Bond>[] = [
   },
   {
     field: 'issueDate',
-    filter: 'agDateColumnFilter',
     sortable: true,
     resizable: true,
   },
   {
     field: 'maturityDate',
-    filter: 'agDateColumnFilter',
     sortable: true,
     resizable: true,
   },
   {
     field: 'coupon',
-    filter: 'agNumberColumnFilter',
     sortable: true,
     resizable: true,
   },
   {
     field: 'issuer',
-    filter: 'agTextColumnFilter',
     sortable: true,
     resizable: true,
   },
   {
     field: 'hairCut',
-    filter: 'agNumberColumnFilter',
     sortable: true,
     resizable: true,
   },

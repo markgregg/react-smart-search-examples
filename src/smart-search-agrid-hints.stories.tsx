@@ -72,6 +72,19 @@ export function SmartSeachAgGridHints() {
               field: 'side',
             },
             {
+              field: 'active',
+              options: [
+                {
+                  text: 'True',
+                  value: true
+                },
+                {
+                  text: 'False',
+                  value: false
+                },
+              ]
+            },
+            {
               field: 'maturityDate',
               options: [
                 {

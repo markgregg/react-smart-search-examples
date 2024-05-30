@@ -12,6 +12,7 @@ export const bonds: Bond[] = [
     coupon: 5.655,
     issuer: 'BPCE',
     hairCut: 21.7,
+    active: true,
   },
   {
     isin: 'FR0127739573',
@@ -24,6 +25,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BPCE',
     hairCut: 21.7,
+    active: true,
   },
   {
     isin: 'FR0013213683',
@@ -36,6 +38,7 @@ export const bonds: Bond[] = [
     coupon: 0.95,
     issuer: 'SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF)',
     hairCut: 16.7,
+    active: true,
   },
   {
     isin: 'FR0127740506',
@@ -48,6 +51,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Banque fédérative du crédit mutuel',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS1848875172',
@@ -60,6 +64,7 @@ export const bonds: Bond[] = [
     coupon: 0.375,
     issuer: 'Svenska Handelsbanken AB',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'IT0004026420',
@@ -72,6 +77,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
+    active: true,
   },
   {
     isin: 'IT0004049224',
@@ -84,6 +90,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
+    active: true,
   },
   {
     isin: 'IT0004059264',
@@ -96,6 +103,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BANCA NAZIONALE DEL LAVORO S.P.A.',
     hairCut: 14.0,
+    active: true,
   },
   {
     isin: 'XS1586702679',
@@ -108,6 +116,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'Swedish Covered Bond Corp.The',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'XS1582205040',
@@ -120,6 +129,7 @@ export const bonds: Bond[] = [
     coupon: 1.125,
     issuer: 'Statkraft AS',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'XS1627193359',
@@ -132,6 +142,7 @@ export const bonds: Bond[] = [
     coupon: 1.375,
     issuer: 'Compagnie de Saint-Gobain S.A.',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'XS1637093508',
@@ -144,6 +155,7 @@ export const bonds: Bond[] = [
     coupon: 0.625,
     issuer: 'Compass Group Fin. Netherl. BV',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'XS2329761956',
@@ -156,6 +168,7 @@ export const bonds: Bond[] = [
     coupon: 0.93,
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2337449214',
@@ -168,6 +181,7 @@ export const bonds: Bond[] = [
     coupon: 0.57,
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2438636198',
@@ -180,6 +194,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Nykredit Bank A/S',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT0000A20DR1',
@@ -192,6 +207,7 @@ export const bonds: Bond[] = [
     coupon: 1.05,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT0000A20C21',
@@ -204,6 +220,7 @@ export const bonds: Bond[] = [
     coupon: 0.9,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT000B065784',
@@ -216,6 +233,7 @@ export const bonds: Bond[] = [
     coupon: 1.995,
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'AT000B066428',
@@ -228,6 +246,7 @@ export const bonds: Bond[] = [
     coupon: 0.45,
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT000B126933',
@@ -240,6 +259,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Oberbank AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT000B126941',
@@ -252,6 +272,7 @@ export const bonds: Bond[] = [
     coupon: 0.47,
     issuer: 'Oberbank AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT000B014543',
@@ -264,6 +285,7 @@ export const bonds: Bond[] = [
     coupon: 4.92573,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A26PY8',
@@ -276,6 +298,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 9.5,
+    active: true,
   },
   {
     isin: 'AT000B014600',
@@ -288,6 +311,7 @@ export const bonds: Bond[] = [
     coupon: 1.13,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A26U56',
@@ -300,6 +324,7 @@ export const bonds: Bond[] = [
     coupon: 0.55,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT000B049754',
@@ -312,6 +337,7 @@ export const bonds: Bond[] = [
     coupon: 0.625,
     issuer: 'UniCredit Bank Austria AG',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT0000A26Z69',
@@ -324,6 +350,7 @@ export const bonds: Bond[] = [
     coupon: 0.834,
     issuer: 'Erdöl-Lagergesellschaft m.b.H.',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT0000A27620',
@@ -336,6 +363,7 @@ export const bonds: Bond[] = [
     coupon: 0.7,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT0000A27638',
@@ -348,6 +376,7 @@ export const bonds: Bond[] = [
     coupon: 0.85,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A2REG9',
@@ -360,6 +389,7 @@ export const bonds: Bond[] = [
     coupon: 0.238,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A2REH7',
@@ -372,6 +402,7 @@ export const bonds: Bond[] = [
     coupon: 0.632,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'AT000B093547',
@@ -384,6 +415,7 @@ export const bonds: Bond[] = [
     coupon: 0.5,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'AT0000A2RJ37',
@@ -396,6 +428,7 @@ export const bonds: Bond[] = [
     coupon: 0.46,
     issuer: 'Raiffeisenverband Salzburg eGen',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'AT0000A2RK00',
@@ -408,6 +441,7 @@ export const bonds: Bond[] = [
     coupon: 0.5,
     issuer: 'Bausparkasse Wüstenrot AG',
     hairCut: 25.2,
+    active: true,
   },
   {
     isin: 'AT0000A2RR60',
@@ -420,6 +454,7 @@ export const bonds: Bond[] = [
     coupon: 0.355,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'AT0000A2WUV4',
@@ -432,6 +467,7 @@ export const bonds: Bond[] = [
     coupon: 0.675,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT0000A2RY95',
@@ -444,6 +480,7 @@ export const bonds: Bond[] = [
     coupon: 0.125,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2CGC5',
@@ -456,6 +493,7 @@ export const bonds: Bond[] = [
     coupon: 0.62,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A2CFX3',
@@ -468,6 +506,7 @@ export const bonds: Bond[] = [
     coupon: 0.351,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2CN04',
@@ -480,6 +519,7 @@ export const bonds: Bond[] = [
     coupon: 0.125,
     issuer: 'Oberbank AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT000B078571',
@@ -492,6 +532,7 @@ export const bonds: Bond[] = [
     coupon: 0.375,
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT000B078597',
@@ -504,6 +545,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'AT0000A14PM9',
@@ -516,6 +558,7 @@ export const bonds: Bond[] = [
     coupon: 2.35,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT0000A10G94',
@@ -528,6 +571,7 @@ export const bonds: Bond[] = [
     coupon: 2.525,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A10709',
@@ -540,6 +584,7 @@ export const bonds: Bond[] = [
     coupon: 2.45,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT000B015227',
@@ -552,6 +597,7 @@ export const bonds: Bond[] = [
     coupon: 1.5,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 23.6,
+    active: true,
   },
   {
     isin: 'AT000B093133',
@@ -564,6 +610,7 @@ export const bonds: Bond[] = [
     coupon: 1.6,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'SK4000022083',
@@ -576,6 +623,7 @@ export const bonds: Bond[] = [
     coupon: 3.502,
     issuer: 'Slovenská sporiteľňa a.s.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT0000A1W5X8',
@@ -588,6 +636,7 @@ export const bonds: Bond[] = [
     coupon: 1.9,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT0000A31LU5',
@@ -600,6 +649,7 @@ export const bonds: Bond[] = [
     coupon: 2.6,
     issuer: 'Erste Group Bank AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'XS2314675997',
@@ -612,6 +662,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'European Investment Bank',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'DK0004612371',
@@ -624,6 +675,7 @@ export const bonds: Bond[] = [
     coupon: 1.7,
     issuer: 'Realkredit Danmark A/S',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'XS2047500769',
@@ -636,6 +688,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'E.ON SE',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'XS2047500926',
@@ -648,6 +701,7 @@ export const bonds: Bond[] = [
     coupon: 0.35,
     issuer: 'E.ON SE',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'EU000A284469',
@@ -660,6 +714,7 @@ export const bonds: Bond[] = [
     coupon: 0.3,
     issuer: 'European Union',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2550866342',
@@ -672,6 +727,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2554340047',
@@ -684,6 +740,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2554472626',
@@ -696,6 +753,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2558247677',
@@ -708,6 +766,7 @@ export const bonds: Bond[] = [
     coupon: 2.75,
     issuer: 'OP-Asuntoluottopankki Oyj',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2560024189',
@@ -720,6 +779,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2560032877',
@@ -732,6 +792,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'FCC Serv.Medio Ambiente Hld.SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2562899976',
@@ -744,6 +805,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Ferrovial S.A.',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2562951132',
@@ -756,6 +818,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Ferrovial S.A.',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2563073084',
@@ -768,6 +831,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Banco Santander S.A.',
     hairCut: 21.7,
+    active: true,
   },
   {
     isin: 'FR0010093336',
@@ -780,6 +844,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Caisse Francaise d.Financ.Loc.',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'DE000A289DC9',
@@ -792,6 +857,7 @@ export const bonds: Bond[] = [
     coupon: 0.25,
     issuer: 'BASF SE',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'XS2237434803',
@@ -804,6 +870,7 @@ export const bonds: Bond[] = [
     coupon: 3.25,
     issuer: 'Unipol Gruppo S.p.A.',
     hairCut: 27.9,
+    active: true,
   },
   {
     isin: 'XS2234567233',
@@ -816,6 +883,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'Volkswagen Intl Finance N.V.',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'XS1222590488',
@@ -828,6 +896,7 @@ export const bonds: Bond[] = [
     coupon: 2.0,
     issuer: 'EDP Finance B.V.',
     hairCut: 20.3,
+    active: true,
   },
   {
     isin: 'XS1244085715',
@@ -840,6 +909,7 @@ export const bonds: Bond[] = [
     coupon: 0.929,
     issuer: 'Swedish Covered Bond Corp.The',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'XS2055786763',
@@ -852,6 +922,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Nordic Investment Bank',
     hairCut: 2.3,
+    active: true,
   },
   {
     isin: 'XS2078735276',
@@ -864,6 +935,7 @@ export const bonds: Bond[] = [
     coupon: 0.5,
     issuer: 'Shell International Finance BV',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'XS2078735433',
@@ -876,6 +948,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'Shell International Finance BV',
     hairCut: 18.0,
+    active: true,
   },
   {
     isin: 'XS1907155235',
@@ -888,6 +961,7 @@ export const bonds: Bond[] = [
     coupon: 1.5,
     issuer: 'Nederlandse Waterschapsbank N.V.',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'AT000B088257',
@@ -900,6 +974,7 @@ export const bonds: Bond[] = [
     coupon: 1.2,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT0000A1DCR2',
@@ -912,6 +987,7 @@ export const bonds: Bond[] = [
     coupon: 2.005,
     issuer: 'Erste Group Bank AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'DE000NLB89K5',
@@ -924,6 +1000,7 @@ export const bonds: Bond[] = [
     coupon: 2.005,
     issuer: 'Norddeutsche Landesbank -Girozentrale-',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'ES0413679459',
@@ -936,6 +1013,7 @@ export const bonds: Bond[] = [
     coupon: 1.954,
     issuer: 'Bankinter S.A.',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'DE000LB13BV7',
@@ -948,6 +1026,7 @@ export const bonds: Bond[] = [
     coupon: 1.502,
     issuer: 'Landesbank Baden-Württemberg',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'FR0127638791',
@@ -960,6 +1039,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Svenska Handelsbanken AB',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127743294',
@@ -972,6 +1052,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BRED - Banque populaire',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'DE000A2AAWA8',
@@ -984,6 +1065,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'Brandenburg Land',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'FR0127743245',
@@ -996,6 +1078,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'JYSKE BANK A/S',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127539742',
@@ -1008,6 +1091,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'KLEPIERRE',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'ES0413679475',
@@ -1020,6 +1104,7 @@ export const bonds: Bond[] = [
     coupon: 1.6,
     issuer: 'Bankinter S.A.',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'FR0127743351',
@@ -1032,6 +1117,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2157194643',
@@ -1044,6 +1130,7 @@ export const bonds: Bond[] = [
     coupon: 2.541,
     issuer: 'Nordea Mortgage Bank PLC',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'FR0011074152',
@@ -1056,6 +1143,7 @@ export const bonds: Bond[] = [
     coupon: 4.12,
     issuer: 'VILLE DE PARIS',
     hairCut: 2.3,
+    active: true,
   },
   {
     isin: 'FR0013235199',
@@ -1068,6 +1156,7 @@ export const bonds: Bond[] = [
     coupon: 1.625,
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0011079052',
@@ -1080,6 +1169,7 @@ export const bonds: Bond[] = [
     coupon: 4.035,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 2.3,
+    active: true,
   },
   {
     isin: 'FR0011458736',
@@ -1092,6 +1182,7 @@ export const bonds: Bond[] = [
     coupon: 2.594,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 1.4,
+    active: true,
   },
   {
     isin: 'FR0127742916',
@@ -1104,6 +1195,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127742932',
@@ -1116,6 +1208,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'DECATHLON SA',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0127615229',
@@ -1128,6 +1221,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'DE000DK03RQ2',
@@ -1140,6 +1234,7 @@ export const bonds: Bond[] = [
     coupon: 0.51,
     issuer: 'DekaBank Deutsche Girozentrale',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'FR0127590075',
@@ -1152,6 +1247,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Agence Centrale des Organismes de Sécurité Sociale (ACOSS)',
     hairCut: 16.8,
+    active: true,
   },
   {
     isin: 'FR0127686055',
@@ -1164,6 +1260,7 @@ export const bonds: Bond[] = [
     coupon: 2.4,
     issuer: 'Natixis',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127533570',
@@ -1176,6 +1273,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BNP Paribas',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'ES0413040090',
@@ -1188,6 +1286,7 @@ export const bonds: Bond[] = [
     coupon: 2.295,
     issuer: 'Banca March S.A.',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'FR0127266163',
@@ -1200,6 +1299,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR001400BCS5',
@@ -1212,6 +1312,7 @@ export const bonds: Bond[] = [
     coupon: 2.23,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'FR0127442483',
@@ -1224,6 +1325,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'PSA BANQUE FRANCE',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR001400CVK0',
@@ -1236,6 +1338,7 @@ export const bonds: Bond[] = [
     coupon: 3.0,
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0014000T17',
@@ -1248,6 +1351,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'REGION HAUTS-DE-FRANCE',
     hairCut: 3.2,
+    active: true,
   },
   {
     isin: 'FR0013053907',
@@ -1260,6 +1364,7 @@ export const bonds: Bond[] = [
     coupon: 1.967,
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0012767317',
@@ -1272,6 +1377,7 @@ export const bonds: Bond[] = [
     coupon: 1.198,
     issuer: 'DEPARTEMENT DE LA SEINE ET MARNE',
     hairCut: 1.4,
+    active: true,
   },
   {
     isin: 'FR0122534227',
@@ -1284,6 +1390,7 @@ export const bonds: Bond[] = [
     coupon: 2.85,
     issuer: 'Banque Palatine',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'FR0013413184',
@@ -1296,6 +1403,7 @@ export const bonds: Bond[] = [
     coupon: 1.09,
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0127583773',
@@ -1308,6 +1416,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Banque fédérative du crédit mutuel',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0012695716',
@@ -1320,6 +1429,7 @@ export const bonds: Bond[] = [
     coupon: 0.398,
     issuer: 'BPCE SFH',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'FR00140099G0',
@@ -1332,6 +1442,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'HSBC SFH (FRANCE)',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'FR0011225325',
@@ -1344,6 +1455,7 @@ export const bonds: Bond[] = [
     coupon: 3.625,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 1.4,
+    active: true,
   },
   {
     isin: 'FR0013537263',
@@ -1356,6 +1468,7 @@ export const bonds: Bond[] = [
     coupon: 0.448,
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0127495010',
@@ -1368,6 +1481,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Caisse régionale de crédit agricole mutuel Sud Rhône-Alpes',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127743187',
@@ -1380,6 +1494,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit mutuel Arkéa',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127409730',
@@ -1392,6 +1507,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Bpifrance',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'IT0005325334',
@@ -1404,6 +1520,7 @@ export const bonds: Bond[] = [
     coupon: 1.75,
     issuer: 'Intesa Sanpaolo S.p.A.',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'FR0127768689',
@@ -1416,6 +1533,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127768697',
@@ -1428,6 +1546,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit mutuel Arkéa',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127768648',
@@ -1440,6 +1559,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'IT0005320673',
@@ -1452,6 +1572,7 @@ export const bonds: Bond[] = [
     coupon: 0.5,
     issuer: 'Intesa Sanpaolo S.p.A.',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'FR00140052W6',
@@ -1464,6 +1585,7 @@ export const bonds: Bond[] = [
     coupon: 0.953,
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'FR001400AON3',
@@ -1476,6 +1598,7 @@ export const bonds: Bond[] = [
     coupon: 1.875,
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'FR0127717611',
@@ -1488,6 +1611,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0013529559',
@@ -1500,6 +1624,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'IT0004534365',
@@ -1512,6 +1637,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
+    active: true,
   },
   {
     isin: 'IT0004534373',
@@ -1524,6 +1650,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
+    active: true,
   },
   {
     isin: 'IT0004534381',
@@ -1536,6 +1663,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534399',
@@ -1548,6 +1676,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534407',
@@ -1560,6 +1689,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534415',
@@ -1572,6 +1702,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534423',
@@ -1584,6 +1715,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534431',
@@ -1596,6 +1728,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0004534449',
@@ -1608,6 +1741,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534456',
@@ -1620,6 +1754,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534514',
@@ -1632,6 +1767,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534464',
@@ -1644,6 +1780,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534472',
@@ -1656,6 +1793,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534480',
@@ -1668,6 +1806,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534498',
@@ -1680,6 +1819,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0004534506',
@@ -1692,6 +1832,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: true,
   },
   {
     isin: 'IT0005422891',
@@ -1704,6 +1845,7 @@ export const bonds: Bond[] = [
     coupon: 0.9,
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
+    active: true,
   },
   {
     isin: 'IT0005424251',
@@ -1716,6 +1858,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
+    active: true,
   },
   {
     isin: 'IT0005425233',
@@ -1728,6 +1871,7 @@ export const bonds: Bond[] = [
     coupon: 1.7,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0005428617',
@@ -1740,6 +1884,7 @@ export const bonds: Bond[] = [
     coupon: 2.51,
     issuer: 'Central government: Italian Republic',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'IT0005433690',
@@ -1752,6 +1897,7 @@ export const bonds: Bond[] = [
     coupon: 0.25,
     issuer: 'Central government: Italian Republic',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'IT0005436693',
@@ -1764,6 +1910,7 @@ export const bonds: Bond[] = [
     coupon: 0.6,
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
+    active: true,
   },
   {
     isin: 'IT0005436701',
@@ -1776,6 +1923,7 @@ export const bonds: Bond[] = [
     coupon: 0.15,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0005437147',
@@ -1788,6 +1936,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'IT0005438004',
@@ -1800,6 +1949,7 @@ export const bonds: Bond[] = [
     coupon: 1.5,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'IT0005441883',
@@ -1812,6 +1962,7 @@ export const bonds: Bond[] = [
     coupon: 2.15,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A2RZ03',
@@ -1824,6 +1975,7 @@ export const bonds: Bond[] = [
     coupon: 0.4,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'AT0000A2RZH2',
@@ -1836,6 +1988,7 @@ export const bonds: Bond[] = [
     coupon: 0.125,
     issuer: 'Oberbank AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2XGD9',
@@ -1848,6 +2001,7 @@ export const bonds: Bond[] = [
     coupon: 0.1,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT0000A2XG57',
@@ -1860,6 +2014,7 @@ export const bonds: Bond[] = [
     coupon: 1.375,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT000B065172',
@@ -1872,6 +2027,7 @@ export const bonds: Bond[] = [
     coupon: 2.8,
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2SL32',
@@ -1884,6 +2040,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 2.7,
+    active: true,
   },
   {
     isin: 'AT000B015185',
@@ -1896,6 +2053,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT000B066998',
@@ -1908,6 +2066,7 @@ export const bonds: Bond[] = [
     coupon: 1.625,
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT0000A2XMV9',
@@ -1920,6 +2079,7 @@ export const bonds: Bond[] = [
     coupon: 2.787,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'AT000B049465',
@@ -1932,6 +2092,7 @@ export const bonds: Bond[] = [
     coupon: 2.375,
     issuer: 'UniCredit Bank Austria AG',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT000B127220',
@@ -1944,6 +2105,7 @@ export const bonds: Bond[] = [
     coupon: 2.19,
     issuer: 'Oberbank AG',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'AT0000A10NQ3',
@@ -1956,6 +2118,7 @@ export const bonds: Bond[] = [
     coupon: 2.633,
     issuer: 'Land Niederösterreich',
     hairCut: 3.2,
+    active: true,
   },
   {
     isin: 'AT0000A10QD4',
@@ -1968,6 +2131,7 @@ export const bonds: Bond[] = [
     coupon: 2.65,
     issuer: 'Land Niederösterreich',
     hairCut: 3.2,
+    active: true,
   },
   {
     isin: 'AT0000A1ERJ5',
@@ -1980,6 +2144,7 @@ export const bonds: Bond[] = [
     coupon: 3.0,
     issuer: 'Ceske drahy a.s.',
     hairCut: 17.6,
+    active: true,
   },
   {
     isin: 'AT0000A1EL96',
@@ -1992,6 +2157,7 @@ export const bonds: Bond[] = [
     coupon: 1.8,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'XS2406890066',
@@ -2004,6 +2170,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'Kon. KPN N.V.',
     hairCut: 17.6,
+    active: true,
   },
   {
     isin: 'XS2497182621',
@@ -2016,6 +2183,7 @@ export const bonds: Bond[] = [
     coupon: 3.0,
     issuer: 'Santander Consumer Finance SA',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2497421714',
@@ -2028,6 +2196,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2497426606',
@@ -2040,6 +2209,7 @@ export const bonds: Bond[] = [
     coupon: 3.0,
     issuer: 'Santander Consumer Finance SA',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'DK0004625274',
@@ -2052,6 +2222,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Realkredit Danmark A/S',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'IT0004657711',
@@ -2064,6 +2235,7 @@ export const bonds: Bond[] = [
     coupon: 2.508,
     issuer: 'Asti Finance S.r.l.',
     hairCut: 3.6,
+    active: true,
   },
   {
     isin: 'XS1969595567',
@@ -2076,6 +2248,7 @@ export const bonds: Bond[] = [
     coupon: 2.954,
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2415531677',
@@ -2088,6 +2261,7 @@ export const bonds: Bond[] = [
     coupon: 2.672,
     issuer: 'Central Bk of Sav.Bks Fin.PLC',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2490485005',
@@ -2100,6 +2274,7 @@ export const bonds: Bond[] = [
     coupon: 1.938,
     issuer: 'Banco Santander S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2511906310',
@@ -2112,6 +2287,7 @@ export const bonds: Bond[] = [
     coupon: 3.75,
     issuer: 'SELP Finance S.a.r.l.',
     hairCut: 25.2,
+    active: true,
   },
   {
     isin: 'XS2551280436',
@@ -2124,6 +2300,7 @@ export const bonds: Bond[] = [
     coupon: 3.75,
     issuer: 'Svenska Handelsbanken AB [publ]',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'FR0127738815',
@@ -2136,6 +2313,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'PSA BANQUE FRANCE',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127738930',
@@ -2148,6 +2326,7 @@ export const bonds: Bond[] = [
     coupon: 2.05,
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127738948',
@@ -2160,6 +2339,7 @@ export const bonds: Bond[] = [
     coupon: 2.48,
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS2250026734',
@@ -2172,6 +2352,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Instituto de Credito Oficial',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'XS2302933929',
@@ -2184,6 +2365,7 @@ export const bonds: Bond[] = [
     coupon: 0.91,
     issuer: 'International Bank for Reconstruction and Development',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0014002LG4',
@@ -2196,6 +2378,7 @@ export const bonds: Bond[] = [
     coupon: 0.1,
     issuer: 'Arkéa Home Loans SFH S.A.',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'BE6321665786',
@@ -2208,6 +2391,7 @@ export const bonds: Bond[] = [
     coupon: 0.245,
     issuer: 'DEUTSCHSPRACHIGE GEMEINSCHAFT BELGIENS',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'FR001400D7M0',
@@ -2220,6 +2404,7 @@ export const bonds: Bond[] = [
     coupon: 4.75,
     issuer: 'ALD',
     hairCut: 20.3,
+    active: true,
   },
   {
     isin: 'FR0127738716',
@@ -2232,6 +2417,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ArcelorMittal S.A.',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'FR0127739631',
@@ -2244,6 +2430,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Axa banque',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127739649',
@@ -2256,6 +2443,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Axa banque',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127739656',
@@ -2268,6 +2456,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Axa banque',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'FR0127694372',
@@ -2280,6 +2469,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ENGIE',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'AT000B088281',
@@ -2292,6 +2482,7 @@ export const bonds: Bond[] = [
     coupon: 5.0,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT000B077508',
@@ -2304,6 +2495,7 @@ export const bonds: Bond[] = [
     coupon: 0.818,
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'AT000B077516',
@@ -2316,6 +2508,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT000B014436',
@@ -2328,6 +2521,7 @@ export const bonds: Bond[] = [
     coupon: 1.21,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT000B112552',
@@ -2340,6 +2534,7 @@ export const bonds: Bond[] = [
     coupon: 2.0,
     issuer: 'Oberbank AG',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'AT000B088489',
@@ -2352,6 +2547,7 @@ export const bonds: Bond[] = [
     coupon: 0.83,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'AT0000A2CWE8',
@@ -2364,6 +2560,7 @@ export const bonds: Bond[] = [
     coupon: 0.443,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'XS2099128055',
@@ -2376,6 +2573,7 @@ export const bonds: Bond[] = [
     coupon: 0.875,
     issuer: 'CA Immobilien Anlagen AG',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'AT0000A2CVP6',
@@ -2388,6 +2586,7 @@ export const bonds: Bond[] = [
     coupon: 0.665,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 14.9,
+    active: true,
   },
   {
     isin: 'AT0000A2CW86',
@@ -2400,6 +2599,7 @@ export const bonds: Bond[] = [
     coupon: 0.45,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT0000A2CWF5',
@@ -2412,6 +2612,7 @@ export const bonds: Bond[] = [
     coupon: 0.21,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT000B127014',
@@ -2424,6 +2625,7 @@ export const bonds: Bond[] = [
     coupon: 0.55,
     issuer: 'Oberbank AG',
     hairCut: 13.1,
+    active: true,
   },
   {
     isin: 'AT0000A2D7C0',
@@ -2436,6 +2638,7 @@ export const bonds: Bond[] = [
     coupon: 0.158,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2D7D8',
@@ -2448,6 +2651,7 @@ export const bonds: Bond[] = [
     coupon: 0.239,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2D7N7',
@@ -2460,6 +2664,7 @@ export const bonds: Bond[] = [
     coupon: 0.14,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 5.4,
+    active: true,
   },
   {
     isin: 'AT0000A2D7Q0',
@@ -2472,6 +2677,7 @@ export const bonds: Bond[] = [
     coupon: 0.11,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT0000A2E083',
@@ -2484,6 +2690,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 1.8,
+    active: true,
   },
   {
     isin: 'AT000B126743',
@@ -2496,6 +2703,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Oberbank AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'AT0000A1ZU25',
@@ -2508,6 +2716,7 @@ export const bonds: Bond[] = [
     coupon: 1.74,
     issuer: 'Raiffeisenverband Salzburg eGen',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'AT000B014238',
@@ -2520,6 +2729,7 @@ export const bonds: Bond[] = [
     coupon: 1.05,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'AT000B126586',
@@ -2532,6 +2742,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Oberbank AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'DE000CB0HR35',
@@ -2544,6 +2755,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'Commerzbank AG',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'FR0013519071',
@@ -2556,6 +2768,7 @@ export const bonds: Bond[] = [
     coupon: 1.125,
     issuer: 'CAP GEMINI',
     hairCut: 17.1,
+    active: true,
   },
   {
     isin: 'FR0127739532',
@@ -2568,6 +2781,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS1756367816',
@@ -2580,6 +2794,7 @@ export const bonds: Bond[] = [
     coupon: 0.5,
     issuer: 'KommuneKredit',
     hairCut: 9.0,
+    active: true,
   },
   {
     isin: 'FR0127739623',
@@ -2592,6 +2807,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'XS1827629384',
@@ -2604,6 +2820,7 @@ export const bonds: Bond[] = [
     coupon: 0.375,
     issuer: 'Aktia Bank PLC',
     hairCut: 0.9,
+    active: true,
   },
   {
     isin: 'EU000A3KRJR4',
@@ -2616,6 +2833,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'European Union',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2055627538',
@@ -2628,6 +2846,7 @@ export const bonds: Bond[] = [
     coupon: 0.375,
     issuer: 'Raiffeisen Bank Intl AG',
     hairCut: 11.7,
+    active: true,
   },
   {
     isin: 'XS2433211310',
@@ -2640,6 +2859,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'Snam S.p.A.',
     hairCut: 16.7,
+    active: true,
   },
   {
     isin: 'XS2433226854',
@@ -2652,6 +2872,7 @@ export const bonds: Bond[] = [
     coupon: 1.25,
     issuer: 'Snam S.p.A.',
     hairCut: 17.6,
+    active: true,
   },
   {
     isin: 'EU000A283859',
@@ -2664,6 +2885,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'European Union',
     hairCut: 4.1,
+    active: true,
   },
   {
     isin: 'EU000A283867',
@@ -2676,6 +2898,7 @@ export const bonds: Bond[] = [
     coupon: 0.1,
     issuer: 'European Union',
     hairCut: 7.2,
+    active: true,
   },
   {
     isin: 'XS2320746394',
@@ -2688,6 +2911,7 @@ export const bonds: Bond[] = [
     coupon: 0.9,
     issuer: 'Verbund AG',
     hairCut: 8.1,
+    active: true,
   },
   {
     isin: 'XS2555717292',
@@ -2700,6 +2924,7 @@ export const bonds: Bond[] = [
     coupon: 6.2635,
     issuer: 'Natwest Markets N.V.',
     hairCut: 23.6,
+    active: true,
   },
   {
     isin: 'XS2089322098',
@@ -2712,6 +2937,7 @@ export const bonds: Bond[] = [
     coupon: 1.375,
     issuer: 'RAI - RADIOTELEVISIONE ITALIANA SPA',
     hairCut: 10.8,
+    active: true,
   },
   {
     isin: 'XS1947578321',
@@ -2724,6 +2950,7 @@ export const bonds: Bond[] = [
     coupon: 0.625,
     issuer: 'Nederlandse Waterschapsbank N.V.',
     hairCut: 3.2,
+    active: true,
   },
   {
     isin: 'XS2139595578',
@@ -2736,6 +2963,7 @@ export const bonds: Bond[] = [
     coupon: 0.555,
     issuer: 'Nordic Investment Bank',
     hairCut: 16.8,
+    active: true,
   },
   {
     isin: 'AT000B014097',
@@ -2748,6 +2976,7 @@ export const bonds: Bond[] = [
     coupon: 0.791,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 6.8,
+    active: true,
   },
   {
     isin: 'AT0000A22P57',
@@ -2760,6 +2989,7 @@ export const bonds: Bond[] = [
     coupon: 1.17,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 5.4,
+    active: false,
   },
   {
     isin: 'FR0127642603',
@@ -2772,6 +3002,7 @@ export const bonds: Bond[] = [
     coupon: 1.27,
     issuer: 'Banque Palatine',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0013372182',
@@ -2784,6 +3015,7 @@ export const bonds: Bond[] = [
     coupon: 1.704,
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0127687533',
@@ -2796,6 +3028,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127270256',
@@ -2808,6 +3041,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127687541',
@@ -2820,6 +3054,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit agricole corporate and investment bank',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127642330',
@@ -2832,6 +3067,7 @@ export const bonds: Bond[] = [
     coupon: 2.25,
     issuer: 'Banque populaire Rives de Paris',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'DE000DK0T0D0',
@@ -2844,6 +3080,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'DekaBank Deutsche Girozentrale',
     hairCut: 13.1,
+    active: false,
   },
   {
     isin: 'FR0011858323',
@@ -2856,6 +3093,7 @@ export const bonds: Bond[] = [
     coupon: 2.375,
     issuer: 'REGION ILE DE FRANCE',
     hairCut: 2.3,
+    active: false,
   },
   {
     isin: 'DE000A2AAQ93',
@@ -2868,6 +3106,7 @@ export const bonds: Bond[] = [
     coupon: 1.956,
     issuer: 'Sachsen-Anhalt Land',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127687558',
@@ -2880,6 +3119,7 @@ export const bonds: Bond[] = [
     coupon: 2.35,
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0014003MZ0',
@@ -2892,6 +3132,7 @@ export const bonds: Bond[] = [
     coupon: 0.35,
     issuer: 'REGION AUVERGNE-RHONE-ALPES',
     hairCut: 4.1,
+    active: false,
   },
   {
     isin: 'FR0013215191',
@@ -2904,6 +3145,7 @@ export const bonds: Bond[] = [
     coupon: 1.16,
     issuer: 'VILLE DE PARIS',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0127687483',
@@ -2916,6 +3158,7 @@ export const bonds: Bond[] = [
     coupon: 1.24,
     issuer: 'Banque Palatine',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127687491',
@@ -2928,6 +3171,7 @@ export const bonds: Bond[] = [
     coupon: 1.24,
     issuer: 'Banque Palatine',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0013335916',
@@ -2940,6 +3184,7 @@ export const bonds: Bond[] = [
     coupon: 1.218,
     issuer: 'REGION DES PAYS DE LA LOIRE',
     hairCut: 4.1,
+    active: false,
   },
   {
     isin: 'FR0127529487',
@@ -2952,6 +3197,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Diac',
     hairCut: 11.7,
+    active: false,
   },
   {
     isin: 'FR0127495028',
@@ -2965,6 +3211,7 @@ export const bonds: Bond[] = [
     issuer:
       'Caisse régionale de crédit agricole mutuel Charente-Périgord (Crédit agricole  Charente-Périgord)',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127614727',
@@ -2977,6 +3224,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'DANONE',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0127644054',
@@ -2989,6 +3237,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ING Bank N.V.',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127495044',
@@ -3001,6 +3250,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127614701',
@@ -3013,6 +3263,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BPCE',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127614735',
@@ -3025,6 +3276,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'DANONE',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0011475193',
@@ -3037,6 +3289,7 @@ export const bonds: Bond[] = [
     coupon: 2.277,
     issuer: 'VILLE DE PARIS',
     hairCut: 2.3,
+    active: false,
   },
   {
     isin: 'FR0127614453',
@@ -3049,6 +3302,7 @@ export const bonds: Bond[] = [
     coupon: 1.9,
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127614768',
@@ -3061,6 +3315,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Bpifrance',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127614545',
@@ -3073,6 +3328,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'BRED - Banque populaire',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'XS1566190945',
@@ -3085,6 +3341,7 @@ export const bonds: Bond[] = [
     coupon: 2.25,
     issuer: 'Central government: Latvia',
     hairCut: 4.5,
+    active: false,
   },
   {
     isin: 'FR0127290551',
@@ -3097,6 +3354,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Allianz banque',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127495093',
@@ -3109,6 +3367,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127290577',
@@ -3121,6 +3380,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'AXA',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'XS1953056253',
@@ -3133,6 +3393,7 @@ export const bonds: Bond[] = [
     coupon: 1.875,
     issuer: 'Central government: Latvia',
     hairCut: 4.5,
+    active: false,
   },
   {
     isin: 'XS2001737324',
@@ -3145,6 +3406,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'Telenor ASA',
     hairCut: 2.7,
+    active: false,
   },
   {
     isin: 'XS2001737910',
@@ -3157,6 +3419,7 @@ export const bonds: Bond[] = [
     coupon: 1.125,
     issuer: 'Telenor ASA',
     hairCut: 4.1,
+    active: false,
   },
   {
     isin: 'XS2001738991',
@@ -3169,6 +3432,7 @@ export const bonds: Bond[] = [
     coupon: 1.75,
     issuer: 'Telenor ASA',
     hairCut: 8.1,
+    active: false,
   },
   {
     isin: 'PTEIECOM0008',
@@ -3182,6 +3446,7 @@ export const bonds: Bond[] = [
     issuer:
       'EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA S.A.',
     hairCut: 2.7,
+    active: false,
   },
   {
     isin: 'PTEIEAOE0000',
@@ -3195,6 +3460,7 @@ export const bonds: Bond[] = [
     issuer:
       'EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA S.A.',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127495085',
@@ -3207,6 +3473,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine",
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'DE000A30VST0',
@@ -3219,6 +3486,7 @@ export const bonds: Bond[] = [
     coupon: 2.143,
     issuer: 'Sparkasse Pforzheim Calw',
     hairCut: 1.8,
+    active: false,
   },
   {
     isin: 'IT0005439275',
@@ -3231,6 +3499,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
+    active: false,
   },
   {
     isin: 'IT0005449969',
@@ -3243,6 +3512,7 @@ export const bonds: Bond[] = [
     coupon: 0.95,
     issuer: 'Central government: Italian Republic',
     hairCut: 10.4,
+    active: false,
   },
   {
     isin: 'IT0005452989',
@@ -3255,6 +3525,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 6.3,
+    active: false,
   },
   {
     isin: 'FR0127718049',
@@ -3267,6 +3538,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Bpifrance',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127718155',
@@ -3279,6 +3551,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Axa banque',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127718163',
@@ -3291,6 +3564,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Axa banque',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127717454',
@@ -3303,6 +3577,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Banque Palatine',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127717462',
@@ -3315,6 +3590,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Banque Palatine',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127718114',
@@ -3327,6 +3603,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'GECINA',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'DE000LB2CRP7',
@@ -3339,6 +3616,7 @@ export const bonds: Bond[] = [
     coupon: 0.834,
     issuer: 'Landesbank Baden-Württemberg',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'DE000SLB8262',
@@ -3351,6 +3629,7 @@ export const bonds: Bond[] = [
     coupon: 0.15,
     issuer: 'Landesbank Saar',
     hairCut: 13.1,
+    active: false,
   },
   {
     isin: 'FR0127695130',
@@ -3363,6 +3642,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Oesterreichische Kontrollbank Aktiengesellschaft',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127768721',
@@ -3375,6 +3655,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit Agricole S.A.',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127695106',
@@ -3387,6 +3668,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ENGIE',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127741520',
@@ -3399,6 +3681,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Natixis',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127747337',
@@ -3411,6 +3694,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ENGIE',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'DE000A12UH52',
@@ -3423,6 +3707,7 @@ export const bonds: Bond[] = [
     coupon: 1.2,
     issuer: 'Kreissparkasse Ludwigsburg',
     hairCut: 1.8,
+    active: false,
   },
   {
     isin: 'FR0127747733',
@@ -3435,6 +3720,7 @@ export const bonds: Bond[] = [
     coupon: 2.76,
     issuer: 'CREDIT LYONNAIS (LCL)',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127747758',
@@ -3447,6 +3733,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: "Compagnie générale de location d'équipements C.G.L.",
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127251074',
@@ -3459,6 +3746,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Louis Dreyfus Commodities B.V.',
     hairCut: 22.0,
+    active: false,
   },
   {
     isin: 'FR0127717595',
@@ -3471,6 +3759,7 @@ export const bonds: Bond[] = [
     coupon: 2.65,
     issuer: 'Banque populaire Rives de Paris',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127693879',
@@ -3483,6 +3772,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'KLEPIERRE',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0013510054',
@@ -3495,6 +3785,7 @@ export const bonds: Bond[] = [
     coupon: 1.07,
     issuer: 'REGIE AUTONOME DES TRANSPORTS PARISIENS (RATP)',
     hairCut: 8.1,
+    active: false,
   },
   {
     isin: 'FR0013478559',
@@ -3507,6 +3798,7 @@ export const bonds: Bond[] = [
     coupon: 0.635,
     issuer: 'CENTRE HOSPITALIER UNIVERSITAIRE DE RENNES',
     hairCut: 2.7,
+    active: false,
   },
   {
     isin: 'FR0127541664',
@@ -3520,6 +3812,7 @@ export const bonds: Bond[] = [
     issuer:
       "Union Nationale Interprofessionnelle pour l'Emploi dans l'Industrie et le Commerce (UNEDIC)",
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127717439',
@@ -3532,6 +3825,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Crédit industriel et commercial - CIC',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'FR0127733782',
@@ -3544,6 +3838,7 @@ export const bonds: Bond[] = [
     coupon: 2.5,
     issuer: 'Banque populaire Val de France (2ème du nom)',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'IT0004534522',
@@ -3556,6 +3851,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534530',
@@ -3568,6 +3864,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534548',
@@ -3580,6 +3877,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534555',
@@ -3592,6 +3890,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534571',
@@ -3604,6 +3903,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534589',
@@ -3616,6 +3916,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004534605',
@@ -3628,6 +3929,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004545890',
@@ -3640,6 +3942,7 @@ export const bonds: Bond[] = [
     coupon: 2.55,
     issuer: 'Central government: Italian Republic',
     hairCut: 11.7,
+    active: false,
   },
   {
     isin: 'IT0004548282',
@@ -3652,6 +3955,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004548290',
@@ -3664,6 +3968,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'IT0004548308',
@@ -3676,6 +3981,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Central government: Italian Republic',
     hairCut: 14.4,
+    active: false,
   },
   {
     isin: 'FR0127694406',
@@ -3688,6 +3994,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'ENGIE',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'FR0127694349',
@@ -3700,6 +4007,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'VEOLIA ENVIRONNEMENT',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'FR0013053329',
@@ -3712,6 +4020,7 @@ export const bonds: Bond[] = [
     coupon: 1.875,
     issuer: 'SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF)',
     hairCut: 14.9,
+    active: false,
   },
   {
     isin: 'FR0127739029',
@@ -3724,6 +4033,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Société générale S.A.',
     hairCut: 6.8,
+    active: false,
   },
   {
     isin: 'XS2421195848',
@@ -3736,6 +4046,7 @@ export const bonds: Bond[] = [
     coupon: 0.375,
     issuer: 'Aroundtown SA',
     hairCut: 25.2,
+    active: false,
   },
   {
     isin: 'XS2430047212',
@@ -3748,6 +4059,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Banco Santander S.A.',
     hairCut: 18.0,
+    active: false,
   },
   {
     isin: 'XS2430287362',
@@ -3760,6 +4072,7 @@ export const bonds: Bond[] = [
     coupon: 2.085,
     issuer: 'Prosus N.V.',
     hairCut: 27.9,
+    active: false,
   },
   {
     isin: 'XS2430287529',
@@ -3772,6 +4085,7 @@ export const bonds: Bond[] = [
     coupon: 1.207,
     issuer: 'Prosus N.V.',
     hairCut: 25.2,
+    active: false,
   },
   {
     isin: 'XS2398750922',
@@ -3784,6 +4098,7 @@ export const bonds: Bond[] = [
     coupon: 1.242,
     issuer: 'International Bank for Reconstruction and Development',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'XS2343528571',
@@ -3796,6 +4111,7 @@ export const bonds: Bond[] = [
     coupon: 1.05,
     issuer: 'Nordic Investment Bank',
     hairCut: 7.2,
+    active: false,
   },
   {
     isin: 'XS2344772426',
@@ -3808,6 +4124,7 @@ export const bonds: Bond[] = [
     coupon: 1.75,
     issuer: 'HAMMERSON IRELAND FINANCE DAC',
     hairCut: 25.2,
+    active: false,
   },
   {
     isin: 'XS2499654643',
@@ -3820,6 +4137,7 @@ export const bonds: Bond[] = [
     coupon: 0.0,
     issuer: 'Coöperatieve Rabobank U.A.',
     hairCut: 21.7,
+    active: false,
   },
   {
     isin: 'AT000B066055',
@@ -3832,6 +4150,7 @@ export const bonds: Bond[] = [
     coupon: 1.75,
     issuer: 'Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen',
     hairCut: 9.0,
+    active: false,
   },
   {
     isin: 'AT000B088455',
@@ -3844,6 +4163,7 @@ export const bonds: Bond[] = [
     coupon: 1.2,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
+    active: false,
   },
   {
     isin: 'AT0000A20EE7',
@@ -3856,6 +4176,7 @@ export const bonds: Bond[] = [
     coupon: 1.53,
     issuer: 'HYPO TIROL BANK AG',
     hairCut: 8.1,
+    active: false,
   },
   {
     isin: 'XS1966819226',
@@ -3868,6 +4189,7 @@ export const bonds: Bond[] = [
     coupon: 0.75,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 11.7,
+    active: false,
   },
   {
     isin: 'XS1966037860',
@@ -3880,6 +4202,7 @@ export const bonds: Bond[] = [
     coupon: 1.358,
     issuer: 'HYPO NOE Landesbank für Niederösterreich und Wien AG',
     hairCut: 14.9,
+    active: false,
   },
   {
     isin: 'AT000B126958',
@@ -3892,6 +4215,7 @@ export const bonds: Bond[] = [
     coupon: 0.84,
     issuer: 'Oberbank AG',
     hairCut: 11.7,
+    active: false,
   },
   {
     isin: 'AT000B014642',
@@ -3904,6 +4228,7 @@ export const bonds: Bond[] = [
     coupon: 1.0,
     issuer: 'Raiffeisen Bank International AG',
     hairCut: 11.7,
+    active: false,
   },
   {
     isin: 'AT000B126966',
@@ -3916,6 +4241,7 @@ export const bonds: Bond[] = [
     coupon: 1.85,
     issuer: 'Oberbank AG',
     hairCut: 18.0,
+    active: false,
   },
   {
     isin: 'AT0000A282J7',
@@ -3928,6 +4254,7 @@ export const bonds: Bond[] = [
     coupon: 0.01,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 0.9,
+    active: false,
   },
   {
     isin: 'AT0000A286C3',
@@ -3940,6 +4267,7 @@ export const bonds: Bond[] = [
     coupon: 0.708,
     issuer: 'Raiffeisenlandesbank Oberösterreich AG',
     hairCut: 9.0,
+    active: false,
   },
   {
     isin: 'AT0000A286S9',
@@ -3952,6 +4280,7 @@ export const bonds: Bond[] = [
     coupon: 2.22,
     issuer: 'Raiffeisen-Landesbank Tirol AG',
     hairCut: 18.0,
+    active: false,
   },
   {
     isin: 'AT000B093190',
@@ -3964,5 +4293,6 @@ export const bonds: Bond[] = [
     coupon: 1.1,
     issuer: 'Raiffeisen-Landesbank Steiermark AG',
     hairCut: 9.0,
+    active: false,
   },
 ];

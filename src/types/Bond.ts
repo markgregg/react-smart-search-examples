@@ -9,4 +9,5 @@ export default interface Bond {
   coupon: number;
   issuer: string;
   hairCut: number;
+  active: boolean;
 }
