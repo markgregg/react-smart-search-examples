@@ -56,9 +56,9 @@ export function SmartSeachAgGridOverrides() {
     <div className="storyStyle">
       <h1>Smart Search For Ag-Grid with Overrides</h1>
       <div className="text">
-        Although you don't have to supply fields for the Ag-Grid Smart Search,
-        you can to overrides the default behaviour. In this example active has
-        been changed to yes/no, and the title for the side field has been hidden
+        Although you don&apos;'t have to supply fields for the Ag-Grid Smart Search,
+        you can override the default behaviour. In this example the active field has
+        been changed to yes/no, and the title for the side field has been changed to hidden
       </div>
       <div className="agGridFrame">
         <ReactSmartSearchAgGrid
