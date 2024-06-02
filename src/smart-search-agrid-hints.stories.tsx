@@ -78,12 +78,8 @@ export function SmartSeachAgGridHints() {
               column: 'active',
               options: [
                 {
-                  text: 'True',
+                  text: 'Active',
                   value: true,
-                },
-                {
-                  text: 'False',
-                  value: false,
                 },
               ],
             },
