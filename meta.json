@@ -22,7 +22,7 @@
         "Smart search agrid hints"
       ],
       "locStart": 22,
-      "locEnd": 171,
+      "locEnd": 167,
       "filePath": "src/smart-search-agrid-hints.stories.tsx",
       "namedExport": "SmartSeachAgGridHints",
       "meta": {}
