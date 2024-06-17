@@ -11,7 +11,7 @@
         "Smart search agrid field overrides"
       ],
       "locStart": 22,
-      "locEnd": 192,
+      "locEnd": 193,
       "filePath": "src/smart-search-agrid-field-overrides.stories.tsx",
       "namedExport": "SmartSeachAgGridOverrides",
       "meta": {}
