@@ -68,6 +68,7 @@ export function SmartSeachAgGridOverrides() {
           fields={[
             {
               name: 'active',
+              hideCategory: false,
               fieldMatches: [
                 {
                   ignoreCase: true,
